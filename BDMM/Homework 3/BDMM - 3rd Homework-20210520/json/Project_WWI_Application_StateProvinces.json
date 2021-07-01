@@ -1,0 +1,426 @@
+[
+  {
+    "StateProvinceID": 1,
+    "StateProvinceCode": "AL",
+    "StateProvinceName": "Alabama",
+    "CountryID": 230,
+    "SalesTerritory": "Southeast",
+    "LatestRecordedPopulation": 5437278
+  },
+  {
+    "StateProvinceID": 2,
+    "StateProvinceCode": "AK",
+    "StateProvinceName": "Alaska",
+    "CountryID": 230,
+    "SalesTerritory": "Far West",
+    "LatestRecordedPopulation": 735132
+  },
+  {
+    "StateProvinceID": 3,
+    "StateProvinceCode": "AZ",
+    "StateProvinceName": "Arizona",
+    "CountryID": 230,
+    "SalesTerritory": "Southwest",
+    "LatestRecordedPopulation": 6891688
+  },
+  {
+    "StateProvinceID": 4,
+    "StateProvinceCode": "AR",
+    "StateProvinceName": "Arkansas",
+    "CountryID": 230,
+    "SalesTerritory": "Southeast",
+    "LatestRecordedPopulation": 3077747
+  },
+  {
+    "StateProvinceID": 5,
+    "StateProvinceCode": "CA",
+    "StateProvinceName": "California",
+    "CountryID": 230,
+    "SalesTerritory": "Far West",
+    "LatestRecordedPopulation": 41460453
+  },
+  {
+    "StateProvinceID": 6,
+    "StateProvinceCode": "CO",
+    "StateProvinceName": "Colorado",
+    "CountryID": 230,
+    "SalesTerritory": "Rocky Mountain",
+    "LatestRecordedPopulation": 5698265
+  },
+  {
+    "StateProvinceID": 7,
+    "StateProvinceCode": "CT",
+    "StateProvinceName": "Connecticut",
+    "CountryID": 230,
+    "SalesTerritory": "New England",
+    "LatestRecordedPopulation": 3739923
+  },
+  {
+    "StateProvinceID": 8,
+    "StateProvinceCode": "DE",
+    "StateProvinceName": "Delaware",
+    "CountryID": 230,
+    "SalesTerritory": "Mideast",
+    "LatestRecordedPopulation": 1001289
+  },
+  {
+    "StateProvinceID": 9,
+    "StateProvinceCode": "DC",
+    "StateProvinceName": "District of Columbia",
+    "CountryID": 230,
+    "SalesTerritory": "Mideast",
+    "LatestRecordedPopulation": 685248
+  },
+  {
+    "StateProvinceID": 10,
+    "StateProvinceCode": "FL",
+    "StateProvinceName": "Florida",
+    "CountryID": 230,
+    "SalesTerritory": "Southeast",
+    "LatestRecordedPopulation": 21148372
+  },
+  {
+    "StateProvinceID": 11,
+    "StateProvinceCode": "GA",
+    "StateProvinceName": "Georgia",
+    "CountryID": 230,
+    "SalesTerritory": "Southeast",
+    "LatestRecordedPopulation": 9992167
+  },
+  {
+    "StateProvinceID": 12,
+    "StateProvinceCode": "HI",
+    "StateProvinceName": "Hawaii",
+    "CountryID": 230,
+    "SalesTerritory": "Far West",
+    "LatestRecordedPopulation": 1404054
+  },
+  {
+    "StateProvinceID": 13,
+    "StateProvinceCode": "ID",
+    "StateProvinceName": "Idaho",
+    "CountryID": 230,
+    "SalesTerritory": "Rocky Mountain",
+    "LatestRecordedPopulation": 1612136
+  },
+  {
+    "StateProvinceID": 14,
+    "StateProvinceCode": "IL",
+    "StateProvinceName": "Illinois",
+    "CountryID": 230,
+    "SalesTerritory": "Great Lakes",
+    "LatestRecordedPopulation": 13397420
+  },
+  {
+    "StateProvinceID": 15,
+    "StateProvinceCode": "IN",
+    "StateProvinceName": "Indiana",
+    "CountryID": 230,
+    "SalesTerritory": "Great Lakes",
+    "LatestRecordedPopulation": 6570902
+  },
+  {
+    "StateProvinceID": 16,
+    "StateProvinceCode": "IA",
+    "StateProvinceName": "Iowa",
+    "CountryID": 230,
+    "SalesTerritory": "Plains",
+    "LatestRecordedPopulation": 3214032
+  },
+  {
+    "StateProvinceID": 17,
+    "StateProvinceCode": "KS",
+    "StateProvinceName": "Kansas",
+    "CountryID": 230,
+    "SalesTerritory": "Plains",
+    "LatestRecordedPopulation": 2893957
+  },
+  {
+    "StateProvinceID": 18,
+    "StateProvinceCode": "KY",
+    "StateProvinceName": "Kentucky",
+    "CountryID": 230,
+    "SalesTerritory": "Southeast",
+    "LatestRecordedPopulation": 4571106
+  },
+  {
+    "StateProvinceID": 19,
+    "StateProvinceCode": "LA",
+    "StateProvinceName": "Louisiana",
+    "CountryID": 230,
+    "SalesTerritory": "Southeast",
+    "LatestRecordedPopulation": 4810488
+  },
+  {
+    "StateProvinceID": 20,
+    "StateProvinceCode": "ME",
+    "StateProvinceName": "Maine",
+    "CountryID": 230,
+    "SalesTerritory": "New England",
+    "LatestRecordedPopulation": 1381434
+  },
+  {
+    "StateProvinceID": 21,
+    "StateProvinceCode": "MD",
+    "StateProvinceName": "Maryland",
+    "CountryID": 230,
+    "SalesTerritory": "Mideast",
+    "LatestRecordedPopulation": 5928814
+  },
+  {
+    "StateProvinceID": 22,
+    "StateProvinceCode": "MA",
+    "StateProvinceName": "Massachusetts[E]",
+    "CountryID": 230,
+    "SalesTerritory": "New England",
+    "LatestRecordedPopulation": 6960536
+  },
+  {
+    "StateProvinceID": 23,
+    "StateProvinceCode": "MI",
+    "StateProvinceName": "Michigan",
+    "CountryID": 230,
+    "SalesTerritory": "Great Lakes",
+    "LatestRecordedPopulation": 9895622
+  },
+  {
+    "StateProvinceID": 24,
+    "StateProvinceCode": "MN",
+    "StateProvinceName": "Minnesota",
+    "CountryID": 230,
+    "SalesTerritory": "Plains",
+    "LatestRecordedPopulation": 5637195
+  },
+  {
+    "StateProvinceID": 25,
+    "StateProvinceCode": "MS",
+    "StateProvinceName": "Mississippi",
+    "CountryID": 230,
+    "SalesTerritory": "Southeast",
+    "LatestRecordedPopulation": 2991207
+  },
+  {
+    "StateProvinceID": 26,
+    "StateProvinceCode": "MO",
+    "StateProvinceName": "Missouri",
+    "CountryID": 230,
+    "SalesTerritory": "Plains",
+    "LatestRecordedPopulation": 6262867
+  },
+  {
+    "StateProvinceID": 27,
+    "StateProvinceCode": "MT",
+    "StateProvinceName": "Montana",
+    "CountryID": 230,
+    "SalesTerritory": "Rocky Mountain",
+    "LatestRecordedPopulation": 1187597
+  },
+  {
+    "StateProvinceID": 28,
+    "StateProvinceCode": "NE",
+    "StateProvinceName": "Nebraska",
+    "CountryID": 230,
+    "SalesTerritory": "Plains",
+    "LatestRecordedPopulation": 1943256
+  },
+  {
+    "StateProvinceID": 29,
+    "StateProvinceCode": "NV",
+    "StateProvinceName": "Nevada",
+    "CountryID": 230,
+    "SalesTerritory": "Far West",
+    "LatestRecordedPopulation": 2790136
+  },
+  {
+    "StateProvinceID": 30,
+    "StateProvinceCode": "NH",
+    "StateProvinceName": "New Hampshire",
+    "CountryID": 230,
+    "SalesTerritory": "New England",
+    "LatestRecordedPopulation": 1376397
+  },
+  {
+    "StateProvinceID": 31,
+    "StateProvinceCode": "NJ",
+    "StateProvinceName": "New Jersey",
+    "CountryID": 230,
+    "SalesTerritory": "Mideast",
+    "LatestRecordedPopulation": 8899339
+  },
+  {
+    "StateProvinceID": 32,
+    "StateProvinceCode": "NM",
+    "StateProvinceName": "New Mexico",
+    "CountryID": 230,
+    "SalesTerritory": "Southwest",
+    "LatestRecordedPopulation": 2345662
+  },
+  {
+    "StateProvinceID": 33,
+    "StateProvinceCode": "NY",
+    "StateProvinceName": "New York",
+    "CountryID": 230,
+    "SalesTerritory": "Mideast",
+    "LatestRecordedPopulation": 20437172
+  },
+  {
+    "StateProvinceID": 34,
+    "StateProvinceCode": "NC",
+    "StateProvinceName": "North Carolina",
+    "CountryID": 230,
+    "SalesTerritory": "Southeast",
+    "LatestRecordedPopulation": 10241982
+  },
+  {
+    "StateProvinceID": 35,
+    "StateProvinceCode": "ND",
+    "StateProvinceName": "North Dakota",
+    "CountryID": 230,
+    "SalesTerritory": "Plains",
+    "LatestRecordedPopulation": 723393
+  },
+  {
+    "StateProvinceID": 36,
+    "StateProvinceCode": "OH",
+    "StateProvinceName": "Ohio",
+    "CountryID": 230,
+    "SalesTerritory": "Great Lakes",
+    "LatestRecordedPopulation": 12514985
+  },
+  {
+    "StateProvinceID": 37,
+    "StateProvinceCode": "OK",
+    "StateProvinceName": "Oklahoma",
+    "CountryID": 230,
+    "SalesTerritory": "Southwest",
+    "LatestRecordedPopulation": 3850568
+  },
+  {
+    "StateProvinceID": 38,
+    "StateProvinceCode": "OR",
+    "StateProvinceName": "Oregon",
+    "CountryID": 230,
+    "SalesTerritory": "Far West",
+    "LatestRecordedPopulation": 4250757
+  },
+  {
+    "StateProvinceID": 39,
+    "StateProvinceCode": "PA",
+    "StateProvinceName": "Pennsylvania",
+    "CountryID": 230,
+    "SalesTerritory": "Mideast",
+    "LatestRecordedPopulation": 13284753
+  },
+  {
+    "StateProvinceID": 40,
+    "StateProvinceCode": "PR",
+    "StateProvinceName": "Puerto Rico (US Territory)",
+    "CountryID": 230,
+    "SalesTerritory": "External",
+    "LatestRecordedPopulation": 3613149
+  },
+  {
+    "StateProvinceID": 41,
+    "StateProvinceCode": "RI",
+    "StateProvinceName": "Rhode Island",
+    "CountryID": 230,
+    "SalesTerritory": "New England",
+    "LatestRecordedPopulation": 1051511
+  },
+  {
+    "StateProvinceID": 42,
+    "StateProvinceCode": "SC",
+    "StateProvinceName": "South Carolina",
+    "CountryID": 230,
+    "SalesTerritory": "Southeast",
+    "LatestRecordedPopulation": 4774839
+  },
+  {
+    "StateProvinceID": 43,
+    "StateProvinceCode": "SD",
+    "StateProvinceName": "South Dakota",
+    "CountryID": 230,
+    "SalesTerritory": "Plains",
+    "LatestRecordedPopulation": 844877
+  },
+  {
+    "StateProvinceID": 44,
+    "StateProvinceCode": "TN",
+    "StateProvinceName": "Tennessee",
+    "CountryID": 230,
+    "SalesTerritory": "Southeast",
+    "LatestRecordedPopulation": 6495978
+  },
+  {
+    "StateProvinceID": 45,
+    "StateProvinceCode": "TX",
+    "StateProvinceName": "Texas",
+    "CountryID": 230,
+    "SalesTerritory": "Southwest",
+    "LatestRecordedPopulation": 27506120
+  },
+  {
+    "StateProvinceID": 46,
+    "StateProvinceCode": "UT",
+    "StateProvinceName": "Utah",
+    "CountryID": 230,
+    "SalesTerritory": "Rocky Mountain",
+    "LatestRecordedPopulation": 3016906
+  },
+  {
+    "StateProvinceID": 47,
+    "StateProvinceCode": "VT",
+    "StateProvinceName": "Vermont",
+    "CountryID": 230,
+    "SalesTerritory": "New England",
+    "LatestRecordedPopulation": 677762
+  },
+  {
+    "StateProvinceID": 48,
+    "StateProvinceCode": "VI",
+    "StateProvinceName": "Virgin Islands (US Territory)",
+    "CountryID": 230,
+    "SalesTerritory": "External",
+    "LatestRecordedPopulation": 104737
+  },
+  {
+    "StateProvinceID": 49,
+    "StateProvinceCode": "VA",
+    "StateProvinceName": "Virginia",
+    "CountryID": 230,
+    "SalesTerritory": "Southeast",
+    "LatestRecordedPopulation": 8260405
+  },
+  {
+    "StateProvinceID": 50,
+    "StateProvinceCode": "WA",
+    "StateProvinceName": "Washington",
+    "CountryID": 230,
+    "SalesTerritory": "Far West",
+    "LatestRecordedPopulation": 7540272
+  },
+  {
+    "StateProvinceID": 51,
+    "StateProvinceCode": "WV",
+    "StateProvinceName": "West Virginia",
+    "CountryID": 230,
+    "SalesTerritory": "Southeast",
+    "LatestRecordedPopulation": 2085839
+  },
+  {
+    "StateProvinceID": 52,
+    "StateProvinceCode": "WI",
+    "StateProvinceName": "Wisconsin",
+    "CountryID": 230,
+    "SalesTerritory": "Great Lakes",
+    "LatestRecordedPopulation": 6211317
+  },
+  {
+    "StateProvinceID": 53,
+    "StateProvinceCode": "WY",
+    "StateProvinceName": "Wyoming",
+    "CountryID": 230,
+    "SalesTerritory": "Rocky Mountain",
+    "LatestRecordedPopulation": 605964
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "DeliveryMethodID": 1,
+    "DeliveryMethodName": "Post"
+  },
+  {
+    "DeliveryMethodID": 2,
+    "DeliveryMethodName": "Courier"
+  },
+  {
+    "DeliveryMethodID": 3,
+    "DeliveryMethodName": "Delivery Van"
+  },
+  {
+    "DeliveryMethodID": 4,
+    "DeliveryMethodName": "Customer Collect"
+  },
+  {
+    "DeliveryMethodID": 5,
+    "DeliveryMethodName": "Chilled Van"
+  },
+  {
+    "DeliveryMethodID": 6,
+    "DeliveryMethodName": "Customer Courier to Collect"
+  },
+  {
+    "DeliveryMethodID": 7,
+    "DeliveryMethodName": "Road Freight"
+  },
+  {
+    "DeliveryMethodID": 8,
+    "DeliveryMethodName": "Air Freight"
+  },
+  {
+    "DeliveryMethodID": 9,
+    "DeliveryMethodName": "Refrigerated Road Freight"
+  },
+  {
+    "DeliveryMethodID": 10,
+    "DeliveryMethodName": "Refrigerated Air Freight"
+  }
+]
